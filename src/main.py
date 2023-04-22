@@ -5,9 +5,9 @@ def main():
     import principal
 
     # chama a função de login
-    if login.login():
+    #if login.login():
         # chama a função de janela principal
-        principal.janela_principal()
+    principal.janela_principal()
 
 
 
